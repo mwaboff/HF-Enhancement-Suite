@@ -2,7 +2,7 @@ HackForums Enhancement Suite
 ==========
 What is it?
 ----------
-HF Enhancement Suite (HFES for short) is a userscript designed for the popular HackForums.net web forum. HFES adds a variety of functionality including the ability to subscribe to forums, quote multiple posts at once, and a complete interface overhaul of the private messaging system. Over 3000 people have installed this popular application.
+HF Enhancement Suite (HFES for short) is a userscript designed for the popular HackForums.net web forum. HFES adds a variety of functionality including the ability to subscribe to forums, quote multiple posts at once, and a complete interface overhaul of the private messaging system. Over 5000 people have installed this popular application.
 
 Installation
 ----------
